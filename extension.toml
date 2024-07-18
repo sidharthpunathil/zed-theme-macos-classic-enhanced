@@ -1,7 +1,7 @@
 id = "macos-classic-enhanced"
-name = "macOS Classic Theme Enhanced"
+name = "macOS Classic Dark Theme Enhanced"
 description = "A macOS native style theme, let it same like native app in macOS. A fork of macOS Classic Theme by @huacnlee"
 version = "1.0.0"
 schema_version = 1
 authors = ["sidharthpunathil"]
-repository = "https://github.com/sidharthpunathil/zed-theme-macos-classic"
+repository = "https://github.com/sidharthpunathil/zed-theme-macos-dark-enhanced"
