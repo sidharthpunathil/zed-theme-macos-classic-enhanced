@@ -1,7 +1,7 @@
-id = "macos-classic"
-name = "macOS Classic Theme"
-description = "A macOS native style theme, let it same like native app in macOS."
-version = "0.0.8"
+id = "macos-classic-enhanced"
+name = "macOS Classic Theme Enhanced"
+description = "A macOS native style theme, let it same like native app in macOS. A fork of macOS Classic Theme by @huacnlee"
+version = "1.0.0"
 schema_version = 1
-authors = ["Jason Lee <huacnlee@gmail.com>"]
-repository = "https://github.com/huacnlee/zed-theme-macos-classic"
+authors = ["sidharthpunathil"]
+repository = "https://github.com/sidharthpunathil/zed-theme-macos-classic"
